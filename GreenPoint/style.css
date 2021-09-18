@@ -61,7 +61,7 @@ body {
 .nav .links a.active,
 .nav .links a:hover {
     cursor: pointer;
-    border: 1px solid #5d8ce2;
+    border: 1px solid #fff;
 }
 
 @media(max-width:678px) {
